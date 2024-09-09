@@ -20,7 +20,8 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "@lnu/eslint-config": "^1.1.10"
+    "@lnu/eslint-config": "^1.1.10",
+    "vite": "^4.4.9"
   },
   "dependencies": {
   }
