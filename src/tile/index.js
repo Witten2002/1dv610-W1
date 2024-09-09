@@ -1,1 +1,1 @@
-import 'tile-component.js'
+import './tile-component.js'
